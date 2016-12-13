@@ -5,7 +5,7 @@ npm install
 
 cordova platform add android
 
-node_modules\.bin\webpack -d
+node_modules\\.bin\webpack -d
 
 npm start ------------- >> check on http://localhost:3000
 
