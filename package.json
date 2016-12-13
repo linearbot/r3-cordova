@@ -1,0 +1,30 @@
+{
+  "name": "r3-cordova",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "babel-core": "^6.20.0",
+    "babel-loader": "^6.2.9",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-react": "^6.16.0",
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1",
+    "webpack": "^1.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	 "start": "webpack-dev-server --port 3000 --host 0.0.0.0 --inline --hot  --progress --colors --content-base www/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linearbot/r3-cordova.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/linearbot/r3-cordova/issues"
+  },
+  "homepage": "https://github.com/linearbot/r3-cordova#readme"
+}
