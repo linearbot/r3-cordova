@@ -1,5 +1,5 @@
 # r3-cordova
-React+Router+Redux+Cordova
+React+Router+Redux+Cordova boilerplate
 
 npm install
 
